@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Talha Sifat
+### Computer Science Major Undergraduate, Web Specialist.
+
+- I am from Pakistan 🏠
+- Find me at talhasifat23@gmail.com 📧
+- React, NextJS, NodeJS, MongoDB 🌟
+- Introvert, Brings a thoughtful and analytical approach to projects and enjoys quiet time for reflection 🕶
+- Took a break from the Booyahs, but my skills are still sharp. #FreeFire🔥
+
+
+### My Stack
+
+![JS](https://github.com/talhaa23/talhaa23/blob/main/image.jpg?raw=true)
 
 <!--
 **TALHAA23/TALHAA23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
