@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Talha Sifat
+## Hi there ![Animation - 1721560952344](https://github.com/user-attachments/assets/26d6c6fd-01a1-4b5d-819b-e2953c3c2fd3) I'm Talha Sifat
 ### Computer Science Major Undergraduate, Web Specialist.
 
 - I am from Pakistan 🏠
