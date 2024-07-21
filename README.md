@@ -1,4 +1,4 @@
-![html-5-svgrepo-com](https://github.com/user-attachments/assets/a95320b5-7c08-4326-b55f-8f5065b0c8f5)## Hi there 👋 I'm Talha Sifat
+## Hi there 👋 I'm Talha Sifat
 ### Computer Science Major Undergraduate, Web Specialist.
 
 - I am from Pakistan 🏠
@@ -9,7 +9,7 @@
 
 
 ### My Stack
-![html-5-svgrepo-com](https://github.com/user-attachments/assets/6dd570ff-2731-470e-b713-a6281acde946) ![html-5-svgrepo-com](https://github.com/user-attachments/assets/6dd570ff-2731-470e-b713-a6281acde946)
+###![html-5-svgrepo-com](https://github.com/user-attachments/assets/6dd570ff-2731-470e-b713-a6281acde946) ![html-5-svgrepo-com](https://github.com/user-attachments/assets/6dd570ff-2731-470e-b713-a6281acde946)
 
 <!--
 **TALHAA23/TALHAA23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
