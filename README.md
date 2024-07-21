@@ -9,7 +9,8 @@
 
 
 ### My Stack
-![pngegg](https://github.com/user-attachments/assets/5dc28892-5575-45b0-b9e7-029699675af5) ![pngegg](https://github.com/user-attachments/assets/5dc28892-5575-45b0-b9e7-029699675af5)
+![pngegg (1)](https://github.com/user-attachments/assets/3e13d9cc-41b4-4057-b637-152e45a57adb) ![pngegg](https://github.com/user-attachments/assets/5e7643a1-2769-4604-875b-6bae715b310a) ![pngegg (2)](https://github.com/user-attachments/assets/1414508d-e97e-47fc-b184-9f87a375ed65) ![pngegg (3)](https://github.com/user-attachments/assets/986073fa-71bf-4980-bad6-f9e383877e69)![pngegg (4)](https://github.com/user-attachments/assets/858e3054-5067-4999-952e-c9df56a8e35a)
+
 
 <!--
 **TALHAA23/TALHAA23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
