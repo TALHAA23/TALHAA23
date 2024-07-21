@@ -10,7 +10,7 @@
 
 ### My Stack
 
-![JS](https://github.com/talhaa23/talhaa23/blob/main/image.jpg?raw=true)
+![alt text](https://www.svgrepo.com/svg/452228/html-5)
 
 <!--
 **TALHAA23/TALHAA23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
